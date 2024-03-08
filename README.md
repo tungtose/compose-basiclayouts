@@ -2,4 +2,4 @@
 
 ![portrait](./portrait.png)
 
-![landspace](./portrait.png)
+![landspace](./landscape.png)
